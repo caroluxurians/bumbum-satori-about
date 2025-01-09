@@ -10,6 +10,11 @@ Bumbum Satori je intranetové řešení na míru pro hudební bookingovou agentu
 
 - [Stack](#stack)
 - [Klíčové funkce](#klíčové-funkce)
+  - [Rozhraní podle role](#rozhraní-podle-role)
+  - [Správa kalendáře](#správa-kalendáře)
+  - [Zadávání úkolů a notifikace](#zadávání-úkolů-a-notifikace)
+  - [Nativní formuláře](#nativní-formuláře)
+  - [Responzivní design](#responzivní-design)
 - [Ukázky kódu](#ukázky-kódu)
 
 ### Stack
