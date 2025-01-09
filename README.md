@@ -50,7 +50,7 @@ Agenti mohou sobě i ostatním přidělovat úkoly. Ty se zobrazují na dashboar
 
 #### Nativní formuláře
 
-Kde je to možné, používá aplikace jednoduché HTML formuláře, které jsou napojené na server actions přes [useActionState](https://react.dev/reference/react/useActionState) hook přímo z Reactu. Inputy pro datum využívají jednoduchý react-calendar. Validace formulářů se řeší přímo v server actions.
+Aplikace se snaží co nejvíce využívat funkcionalitu Reactu a Next.js bez nadbytečných knihoven. Kde je to možné, používá aplikace nativní HTML formuláře, které jsou napojené na server actions přes [useActionState](https://react.dev/reference/react/useActionState) hook přímo z Reactu. Inputy pro datum využívají jednoduchý react-calendar. Validace formulářů se řeší přímo v server actions.
 
 ![form](form.jpeg)
 
