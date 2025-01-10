@@ -1,6 +1,6 @@
 # Bumbum Satori: o projektu
 
-Bumbum Satori je intranetové řešení na míru pro hudební bookingovou agenturu, které slouží jako systém pro agenty i zastupované umělce. Agentům nabízí správu událostí, profilů umělců a komunikaci s umělci, umělcům přehled koncertů a výdělků z nich. Systém je napsaný načisto podle původní PHP aplikace s převedenou původní databází. Na zakázku Bumbum Satori vytvořila [@caroluxurians](https://github.com/caroluxurians) s mentoringem [@timichal](https://github.com/timichal).
+Bumbum Satori je intranetové řešení na míru pro stejnojmennou [hudební bookingovou agenturu](https://bumbumsatori.org), které slouží jako systém pro agenty i zastupované umělce. Agentům nabízí správu událostí, profilů umělců a komunikaci s umělci, umělcům přehled koncertů a výdělků z nich. Systém je napsaný načisto podle původní PHP aplikace s převedenou původní databází. Na zakázku Bumbum Satori vytvořila [@caroluxurians](https://github.com/caroluxurians) s mentoringem [@timichal](https://github.com/timichal).
 
 ## Obsah
 
