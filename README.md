@@ -15,7 +15,7 @@ Bumbum Satori je intranetové řešení na míru pro stejnojmennou [hudební boo
 
 ## Stack
 
-- Frontend je napsaný v [Reactu](https://react.dev) a [Next.js 14](https://nextjs.org) s použitím [app routeru](https://nextjs.org/docs/app).
+- Frontend je napsaný v [Reactu](https://react.dev) a [Next.js 15](https://nextjs.org) s použitím [app routeru](https://nextjs.org/docs/app).
 - Na stylování je použitý [Tailwind CSS](https://tailwindcss.com).
 - Backend je řešený přímo v Next.js aplikaci pomocí [server actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations) a knihovny [mysql2](https://www.npmjs.com/package/mysql2).
 - Všechny komponenty a backendové funkce jsou otypované v [TypeScriptu](https://www.typescriptlang.org).
