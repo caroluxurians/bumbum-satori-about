@@ -20,7 +20,7 @@ Bumbum Satori je intranetové řešení na míru pro stejnojmennou [hudební boo
 - Backend je řešený přímo v Next.js aplikaci pomocí [server actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations) a knihovny [mysql2](https://www.npmjs.com/package/mysql2).
 - Všechny komponenty a backendové funkce jsou otypované v [TypeScriptu](https://www.typescriptlang.org).
 - MySQL databáze je převzata z původní PHP aplikace a upravená pro novou aplikaci a MySQL 9.
-- Aplikace i databáze běží v [Dockeru](https://www.docker.com) na virtualním serveru v [Hetzner Cloud](https://www.hetzner.com/cloud), deploy je automatizovaný pomocí [GitHub Actions](https://github.com/features/actions).
+- Aplikace i databáze běží v [Dockeru](https://www.docker.com) na virtuálním serveru v [Hetzner Cloud](https://www.hetzner.com/cloud), deploy je automatizovaný pomocí [GitHub Actions](https://github.com/features/actions).
 
 ## Klíčové funkce
 
